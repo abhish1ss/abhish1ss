@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 <p>
-I am <span style="color:blue;font-weight:bold;">Abhishek Pratap Singh</span>, Academically I am a Computer Science graduate and have been working in Backend Development for 4 years. I also have a keen interest in cricket and exploring the latest tech gadgets.
+I am ** Abhishek Pratap Singh **, Academically I am a Computer Science graduate and have been working in Backend Development for 4 years. I also have a keen interest in cricket and exploring the latest tech gadgets.
 Amongst my projects, what I hold dear is NetHavoc where I developed the experimental conditions to test how a server behaves when it is subjected to extreme usage Because the task was very complex and I had a long-term view of the entire software development value chain.
 </p>
 
