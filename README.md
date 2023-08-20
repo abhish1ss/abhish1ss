@@ -1,3 +1,7 @@
+<html>
+  <head>
+  </head>
+  <body>
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 I am `#f03c15` **Abhishek Pratap Singh,** `#f03c15`<br/>
@@ -8,8 +12,8 @@ Amongst my projects, what I hold dear is NetHavoc where I developed the experime
   <img src="https://leetcode-stats-six.vercel.app/?username=abhish1_s&theme=dark"><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=abhish1ss&show_icons=true&hide_border=true&icon_color=008000&text_color=000000&count_private=true">
 </p>
-
-
+</body>
+</html>
 <!--
 **abhish1ss/abhish1ss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
