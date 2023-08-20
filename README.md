@@ -3,7 +3,7 @@
   </head>
   <body>
 
-    <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+  <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 <p>
 I am <span style="font-size:18px">Abhishek Pratap Singh,</span><br/>
 Academically I am a Computer Science graduate and have been working in Backend Development for 4 years. I also have a keen interest in cricket and exploring the latest tech gadgets.
