@@ -3,9 +3,9 @@
 
 <p align="center">
   <img src="https://leetcode-stats-six.vercel.app/?username=abhish1_s&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhish1ss&show_icons=true&hide_border=true&icon_color=008000&text_color=000000&count_private=true">
 </p>
 
-<img align=center src="https://github-readme-stats.vercel.app/api?username=abhish1ss&show_icons=true&hide_border=true&icon_color=008000&text_color=000000&count_private=true">
 
 <!--
 **abhish1ss/abhish1ss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
