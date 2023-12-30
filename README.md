@@ -12,6 +12,7 @@
   <img src="https://leetcode-stats-six.vercel.app/?username=abhish1_s&theme=dark"><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=abhish1ss&show_icons=true&hide_border=true&icon_color=008000&text_color=000000&count_private=true">
 </p>
+## Favourite Tech
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
