@@ -1,7 +1,7 @@
-<html>
-  <head>
-  </head>
-  <body>
+<!-- <html> -->
+<!--   <head> -->
+<!--   </head> -->
+<!--   <body> -->
 
   <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 <!--   <img src="banner.png"/> -->
@@ -23,8 +23,8 @@
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp; -->
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-original.svg"  title="D3" alt="D3" width="40" height="40"/>&nbsp; -->
 <div>
-</body>
-</html>
+<!-- </body> -->
+<!-- </html> -->
 <!--
 **abhish1ss/abhish1ss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
