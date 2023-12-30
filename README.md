@@ -4,15 +4,16 @@
 <!--   </head> -->
 <!--   <body> -->
 <!--
-  <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+  <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1> -->
 <!--   <img src="banner.png"/> -->
 <!--   <img src="about.png"/> -->
+<!--
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=abhish1ss&theme=transparent&fire=EB5454" alt="GitHub Streak"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhish1ss&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
   <img src="https://leetcode-stats-six.vercel.app/?username=abhish1_s&theme=dark"><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=abhish1ss&show_icons=true&hide_border=true&icon_color=008000&text_color=000000&count_private=true">
-</p>
+</p> -->
 ## Favourite Tech
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -24,7 +25,6 @@
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp; -->
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-original.svg"  title="D3" alt="D3" width="40" height="40"/>&nbsp; -->
 <div>
-  -->
 <!-- </body> -->
 <!-- </html> -->
 <!--
