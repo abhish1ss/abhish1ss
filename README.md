@@ -4,8 +4,10 @@
   <body>
 
   <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-  <img src="banner.png"/>
-  <img src="about.png"/>
+<!--   <img src="banner.png"/> -->
+<!--   <img src="about.png"/> -->
+<img src="https://streak-stats.demolab.com?user=abhish1ss&theme=transparent&fire=EB5454" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhish1ss&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
 <p align="center">
   <img src="https://leetcode-stats-six.vercel.app/?username=abhish1_s&theme=dark"><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=abhish1ss&show_icons=true&hide_border=true&icon_color=008000&text_color=000000&count_private=true">
