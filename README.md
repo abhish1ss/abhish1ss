@@ -2,18 +2,33 @@
 <h1 align="center">Hi 👋, I'm Abhishek Pratap Singh</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhish1ss" alt="abhish1ss" /></a> </p>
+<!--- Git Hub Stats --->
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=abhish1ss" alt="abhish1ss" />
+  </a> 
+</p>
 
-<p align="left"> <a href="https://twitter.com/abhish1_s" target="blank"><img src="https://img.shields.io/twitter/follow/abhish1_s?logo=twitter&style=for-the-badge" alt="abhish1_s" /></a> </p>
+<p align="left"> 
+  <a href="https://twitter.com/abhish1_s" target="blank">
+    <img src="https://img.shields.io/twitter/follow/abhish1_s?logo=twitter&style=for-the-badge" alt="abhish1_s" />
+  </a> 
+</p>
+
 
 - 👨‍💻 All of my projects are available at [https://diveinsidemyportfolio.com/](https://diveinsidemyportfolio.com/)
 
 - 📫 How to reach me **abhishekssiin@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">
+  Connect with me:
+</h3>
 <p align="center">
-<a href="https://twitter.com/abhish1_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhish1_s" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abhish1s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhish1s" height="30" width="40" /></a>
+  <a href="https://twitter.com/abhish1_s" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhish1_s" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/abhish1s" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhish1s" height="30" width="40" /></a>
 <a href="https://instagram.com/abhish1_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhish1_s" height="30" width="40" /></a>
 <a href="https://medium.com/@abhish1s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abhish1s" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/abhish1_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhish1_s" height="30" width="40" /></a>
