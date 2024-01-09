@@ -1,7 +1,7 @@
 <!--- Introduction --->
 <h1 align="center">Hi 👋, I'm Abhishek Pratap Singh</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-<img src="banner.jpg">
+<img src="banner.png">
 
 <!--- Git Hub Stats --->
 <p align="left"> 
