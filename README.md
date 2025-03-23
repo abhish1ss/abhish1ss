@@ -7,7 +7,7 @@ I am a highly skilled **Software Engineer** with a strong background in **JavaSc
 
 ## 💼 Professional Experience
 
-### **Senior Software Development Engineer**  
+### **Software Development Engineer II**  
 📍 Amazon via BCT Consulting, Gurugram, India  
 🗓 **Oct 2023 - Present**  
 - Contributing to the **Amazon Logistics Team**, ensuring compliance in package transportation.
