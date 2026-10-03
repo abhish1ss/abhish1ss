@@ -7,7 +7,7 @@ I replace vendor tools and manual processes with in-house backend systems, and I
 Open to senior and lead backend engineering roles · Immediate joiner · Based in India
 
 <!-- TODO: replace RESUME_URL with a link to your résumé (Drive link or a page on your portfolio). Remove this line if you prefer not to link it. -->
-[Résumé](RESUME_URL) · [LinkedIn](https://www.linkedin.com/in/abhish1s) · [Portfolio](https://abhicodesdev.vercel.app/) · [Email](mailto:abhishekssiin@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/abhish1s) · [Portfolio](https://abhicodesdev.vercel.app/) · [Email](mailto:abhishekssiin@gmail.com)
 
 <sub>[About](#about) · [Selected work](#selected-work) · [Toolbox](#toolbox) · [Currently](#currently) · [Background](#background) · [Contact](#contact)</sub>
 
